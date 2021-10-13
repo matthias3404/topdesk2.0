@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'welcomes');
+Route::view('/', 'welcome');
